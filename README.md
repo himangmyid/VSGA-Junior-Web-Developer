@@ -5,4 +5,4 @@ Vokasi Vocational School Graduate Academy Ringkasan dari Sertifikasi Junior Web 
 Untuk folder Beasiswa adalah tugas akhir sedangkan perpustakaan untuk melatih kita menggunakan CRUD
 
 
-https://www.himang.my.id/
+my blog : https://www.himang.my.id/
